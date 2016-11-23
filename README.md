@@ -4,6 +4,15 @@ CallSdk基于[iLiveSDK](https://github.com/zhaoyang21cn/ILiveSDK_Android_Demos)�
 
 ![](https://zhaoyang21cn.github.io/ilivesdk_help/readme_img/ilivesdk_construction.png)
 
+
+
+## 集成
+CallSDK在Android Studio上开发。 导入只需要在gradle里增加一行（后面是版本号）,查看[版本更新说明](./doc/release.md)
+
+```
+compile 'com.tencent.callsdk:callsdk:1.0.0'
+```
+
 ## 功能概述
 
 CallSdk可以使用iLiveSDK的所有功能:
@@ -17,7 +26,6 @@ CallSdk可以使用iLiveSDK的所有功能:
 
 ![contact](https://zhaoyang21cn.github.io/ilivesdk_help/readme_img/contact.png)
 ![contact](https://zhaoyang21cn.github.io/ilivesdk_help/readme_img/call.png)
-
 
 ## 主要接口介绍
 
