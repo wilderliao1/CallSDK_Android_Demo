@@ -29,7 +29,7 @@ CallSdk可以使用iLiveSDK的所有功能:
 
 ## 主要接口介绍
 
-登录相关请参考ilivesdk：[https://github.com/zhaoyang21cn/ILiveSDK_Android_Demos](https://github.com/zhaoyang21cn/ILiveSDK_Android_Demos)
+登录相关请参考iLiveSDK：[https://github.com/zhaoyang21cn/ILiveSDK_Android_Demos](https://github.com/zhaoyang21cn/ILiveSDK_Android_Demos)
 
 接口|所属类别|描述
 :--|:--|:--:
