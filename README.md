@@ -34,4 +34,4 @@ rejectCall|ILVCallManager|拒接视频(语音通话)
 initAvView|ILVCallManager|设置渲染控件(AVVideoView)
 
 ## 快速接入
-请移步[ILVCallManager]
+请移步[视频聊天快速接入](./doc/helloworld.md)
