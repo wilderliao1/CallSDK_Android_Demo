@@ -1,6 +1,6 @@
 ## 概述
 
-CallSdk基于[iLiveSDK](https://github.com/zhaoyang21cn/ILiveSDK_Android_Demos)，实现双人视频(多人)业务功能封装，方便开发者快速搭建自己的视频聊天服务
+CallSdk基于[ILiveSDK](https://github.com/zhaoyang21cn/ILiveSDK_Android_Demos)，实现双人视频(多人)业务功能封装，方便开发者快速搭建自己的视频聊天服务
 
 ![](https://zhaoyang21cn.github.io/ilivesdk_help/readme_img/ilivesdk_construction.png)
 
@@ -15,7 +15,7 @@ compile 'com.tencent.callsdk:callsdk:1.0.0'
 
 ## 功能概述
 
-CallSdk可以使用iLiveSDK的所有功能:
+CallSdk可以使用ILiveSDK的所有功能:
 >* 帐号体系(资料托管)
 >* 个人关系链
 >* 群组管理
